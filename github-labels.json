@@ -1,8 +1,8 @@
 [
-  { "name": "os ⋅ electron", "color": "#0097A7" },
-  { "name": "os ⋅ linux", "color": "#0097A7" },
-  { "name": "os ⋅ mac", "color": "#0097A7" },
-  { "name": "os ⋅ windows", "color": "#0097A7" },
+  { "name": "os ⋅ electron", "color": "#B2DFDB" },
+  { "name": "os ⋅ linux", "color": "#B2DFDB" },
+  { "name": "os ⋅ mac", "color": "#B2DFDB" },
+  { "name": "os ⋅ windows", "color": "#B2DFDB" },
 
   { "name": "webpack v2", "color": "#CFD8DC" },
   { "name": "webpack v3", "color": "#90A4AE" },
@@ -43,5 +43,14 @@
   { "name": "v² ⋅ beta", "color": "#FFEB3B" },
   { "name": "v³ ⋅ major", "color": "#FF9800" },
   { "name": "v⁴ ⋅ minor", "color": "#FFC107" },
-  { "name": "v⁵ ⋅ next", "color": "#CDDC39" }
+  { "name": "v⁵ ⋅ next", "color": "#CDDC39" },
+  
+  { "name": "t¹ ⋅ chore", "color": "#D7CCC8" },
+  { "name": "t² ⋅ docs", "color": "#D7CCC8" },
+  { "name": "t³ ⋅ feature", "color": "#D7CCC8" },
+  { "name": "t⁴ ⋅ fix", "color": "#D7CCC8" },
+  { "name": "t⁵ ⋅ performance", "color": "#D7CCC8" },
+  { "name": "t⁶ ⋅ refactor", "color": "#D7CCC8" },
+  { "name": "t⁷ ⋅ style", "color": "#D7CCC8" },
+  { "name": "t⁸ ⋅ test", "color": "#D7CCC8" }
 ]
